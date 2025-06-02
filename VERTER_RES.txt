@@ -1,0 +1,66 @@
+67%
+Run tests:
+
+-------------------------------------------------------------------------------
+
+Quest_1
+
+Style test
+Style test output:
+Style test: OK 1
+
+Style test result: 1
+
+-------------------------------------------------------------------------------
+
+Test number: 0, name: Quest_1
+
+Test output: Result for test with number 0: OK 1
+
+Test result: 1
+
+-------------------------------------------------------------------------------
+
+Quest_2
+
+Style test
+Style test output:
+Style test: OK 1
+
+Style test result: 1
+
+-------------------------------------------------------------------------------
+
+Static code analysis: FAIL 0
+-------------------------------------------------------------------------------
+
+Test number: 1, name: Quest_2
+
+Test output: Result for test with number 1: OK 1
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Quest_3
+
+Style test
+Style test output:
+Style test: OK 1
+
+Style test result: 1
+
+-------------------------------------------------------------------------------
+
+Static code analysis: OK 1
+-------------------------------------------------------------------------------
+
+Test number: 2, name: Quest_3
+
+Test output: Result for test with number 2: OK 1
+
+Test result: 1
+
+-------------------------------------------------------------------------------
+
+
